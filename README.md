@@ -77,3 +77,6 @@ python main.py
 
 ![avatar](./pic/result.png)
 
+
+![avatar](./pic/resul2.jpg)
+
