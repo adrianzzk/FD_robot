@@ -77,5 +77,4 @@ python main.py
 ## 效果展示
 
 ![avatar](./pic/result.png)
-=======
->>>>>>> 933e80aa07bb7e9f6c2f1f0920146b61429882cf
+
