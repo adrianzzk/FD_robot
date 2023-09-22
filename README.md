@@ -6,7 +6,7 @@
 
 版本限制：
 
-python = 3.9
+python < 3.11
 
 安装依赖环境
 
@@ -71,8 +71,11 @@ if __name__ == '__main__':
 或者你可以选择在cmd里面运行
 ```
 python main.py
+<<<<<<< HEAD
 ```
 
 ## 效果展示
 
 ![avatar](./pic/result.png)
+=======
+>>>>>>> 933e80aa07bb7e9f6c2f1f0920146b61429882cf
