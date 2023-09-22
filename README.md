@@ -71,7 +71,6 @@ if __name__ == '__main__':
 或者你可以选择在cmd里面运行
 ```
 python main.py
-<<<<<<< HEAD
 ```
 
 ## 效果展示
