@@ -31,9 +31,9 @@ pip install requirements -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 找到对应的元素，查看对应的`xpath`地址
 
-![avatar](pic\date.png)
+![avatar](./pic/date.png)
 
-![avatar](pic\title.png)
+![avatar](./pic/title.png)
 
 ---
 ## 代码解析
