@@ -1,6 +1,6 @@
 # 复旦官网研究生相关信息的小爬虫
 ---
-@Author：Adrian
+**@Author：Adrian**
 
 ## 安装依赖
 
@@ -17,13 +17,13 @@ pip install requirements -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## config
 
-| 变量名 | 描述 |
-| --- | --- |
-| TARGET_DATE | 目标日期，用于检查更新 |
-| NO_UPDATE_TEXT | 没有更新时显示的文本 |
-| MONITORED_URLS | 需要监测的网址列表 |
-| URL_ALIAS | 将网址映射到对应别名的字典 |
-| SLEEP_TIME | 监控间隔时间 |
+| 变量名         | 描述                       |
+| -------------- | -------------------------- |
+| TARGET_DATE    | 目标日期，用于检查更新     |
+| NO_UPDATE_TEXT | 没有更新时显示的文本       |
+| MONITORED_URLS | 需要监测的网址列表         |
+| URL_ALIAS      | 将网址映射到对应别名的字典 |
+| SLEEP_TIME     | 监控间隔时间               |
 
 ### 如何获取相应的xpath地址？
 
@@ -31,9 +31,9 @@ pip install requirements -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 找到对应的元素，查看对应的`xpath`地址
 
-![avatar](pic\date.png)
+![avatar](./pic/date.png)
 
-![avatar](pic\title.png)
+![avatar](./pic/title.png)
 
 ---
 ## 代码解析
@@ -71,3 +71,8 @@ if __name__ == '__main__':
 或者你可以选择在cmd里面运行
 ```
 python main.py
+```
+
+## 效果展示
+
+![avatar](./pic/result.png)
